@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Basic blog with loading pages from MDX
+
+Also including loading basic info via api PokeAPI
